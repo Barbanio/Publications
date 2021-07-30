@@ -1,5 +1,5 @@
-##**Multiculturalism in technology and its limits**
-###AsyncAPI and the long road to utopia
+## Multiculturalism in technology and its limits
+### AsyncAPI and the long road to utopia
 
 >"Technology is not neutral. We're inside of what we make, and it's inside of us. We're living in a world of 
 connections - and it matters which ones get made and unmade." 
