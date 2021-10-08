@@ -1,4 +1,4 @@
-##Made by technology
+## Made by technology
 
 Every historical moment is associated with its technology. The social, political, and economic practice of human beings depends mainly on the tools at their disposal. Their relationship with the environment around, their knowledge of the world, their worldview, depend on technological prostheses that enable them to improve their perception, to understand the past, and, above all, to foresee a plan for the future. 
 
