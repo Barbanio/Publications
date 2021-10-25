@@ -1,6 +1,6 @@
 ## Made by technology
 
-Every historical moment is associated with its technology. The social, political, and economic practice of human beings depends mainly on the tools at their disposal. Their relationship with the environment around, their knowledge of the world, their worldview, depend on technological prostheses that enable them to improve their perception, to understand the past, and, above all, to foresee a plan for the future. 
+Every historical moment is associated with its technology. The social, political, and economic practice of human beings depends mainly on the tools at their disposal. Their relationship with the environment around them, their knowledge of the world, their worldview, depend on technological prostheses that enable them to improve their perception, to understand the past, and, above all, to foresee a plan for the future. 
 
 Moreover, technological development is the backbone of our understanding of the 21st century. The new technologies define our era and make possible to understand the creations of the contemporary human beings: their science, their way of living, their cultural habits and so on. 
 
