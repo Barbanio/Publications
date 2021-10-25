@@ -30,7 +30,7 @@ Open source projects refer to software development with a license that gives acc
 
 Transparency and horizontality are the axes on which this movement is settled. The absolute exposure of the work, economy, and politics of a project or company in a society with such opaque foundations, represents a return to the initial roots of the Internet, an autonomous zone where projects are built from the ground up. 
 
-Doing things following the open source philosophy promotes a working system based on the open exchange of ideas and teamwork based on flexibility and constant innovation. 
+Doing things following the open-source philosophy promotes a working system based on the open exchange of ideas and teamwork based on flexibility and constant innovation. 
 
 This working model clashes head-on with a system based mainly on competitiveness and concealment. It appears as a stepping stone to repeal opaque and oppressive government models, and a step towards a freer, more transparent, and equitable society.
 
