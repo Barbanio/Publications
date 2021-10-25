@@ -4,7 +4,7 @@ Every historical moment is associated with its technology. The social, political
 
 Moreover, technological development is the backbone of our understanding of the 21st century. The new technologies define our era and make possible to understand the creations of the contemporary human beings: their science, their way of living, their cultural habits and so on. 
 
-The contemporary humankind is impossible to be understood without the constant company of technology that allows him to improve his senses, to expand them. Today, technology has become an extension of the human body. 
+The contemporary humankind is impossible to be understood without the constant company of technology that allows them to improve and expand their senses. Today, technology has become an extension of the human body. 
 
 Men and women have thus shown themselves to be irremediably permeable to technology, a technology that goes beyond them. The human being today is a subject made by technology. The main question is: who is in charge of this factory? With what interests? Who is making us? Who is designing us?
 
