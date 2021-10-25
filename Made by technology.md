@@ -18,7 +18,7 @@ In the end, the medium prevailed over the messages, and the "wall" of the social
 
 **Collaboration against individualism**
 
-Against the main currents determined by tech giants there are still lots of possibilities of using the ways in alternatives ways, understanding the huge possibilities open by technologies, some of them, usually forgotten by people. 
+Against the main currents determined by tech giants, there are still lots of possibilities of using the ways in alternative ways, understanding the huge possibilities open by technologies, some of them, usually forgotten by people. 
 
 Facing the idea of an Internet of massive and monolithic movements, there is another open possibility: the return to the collective, to the community, and its needs. Open source thus becomes the counterweight to the dangers of indiscriminate use and the generation of information noise on the Internet. 
 
