@@ -1,4 +1,4 @@
-# AsyncAPI: A shuttle for open-source professionals 
+# AsyncAPI: A springboard for open-source professionals 
 
 
 We all start studying and training in what we like with a lot of enthusiasm and optimism. However, as time goes by, difficulties begin to arise, making us rethink our position and values. Are we really good at what we thought we were? Are we in the good direction? Are we investing our time correctly? Do really our skills define us? Who are we, after all? Shall we go on?
@@ -22,9 +22,9 @@ So, the questions reach an even higher level: Are we really good at what we deci
 
 Finger crossed, having a good start when choosing a first job is a crucial step in our careers. Ability or just luck. Whatever it takes. Getting into a good platform for landing in the professional realm can expand our horizons and increase our confidence in the long term. Seat belts on!
 
-Not every company or project relies on young and talented people. But in the open-source context, [AsyncAPI](https://www.asyncapi.com/) appears to be safe territory for landing. As a growing project that focuses its work on communication between asynchronous APIs, AsyncAPI is a suggestive place to start: evolving, open-minded, communicative, empathetic… the project is all ears when talking about getting the best of young talents. 
+Not every company or project relies on newcomers with such confidence in their talent. But in the open-source context, [AsyncAPI](https://www.asyncapi.com/) appears to be safe territory for landing. As a growing project that focuses its work on communication between asynchronous APIs, AsyncAPI is a suggestive place to start: evolving, open-minded, communicative, empathetic… the project is all ears when talking about getting the best of talented people. 
 
-Without hierarchy, no worries, no pain, AsyncAPI shows itself as the best platform for young coders to grow at their own pace. It fits like a glove. Since the beginning and throughout the different stages that the project has been reaching until today, the values and premises are clear, supported, and respected. Transparency and horizontality are unquestionable. People are at the forefront, goals will come later.
+Without hierarchy, no worries, no pain, AsyncAPI shows itself as the best platform for coders starting to grow at their own pace. It fits like a glove. Since the beginning and throughout the different stages that the project has been reaching until today, the values and premises are clear, supported, and respected. Transparency and horizontality are unquestionable. People are at the forefront, goals will come later.
 
 ## A welcoming atmosphere
 
