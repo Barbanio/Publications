@@ -1,6 +1,5 @@
 # AsyncAPI: A springboard for open-source professionals 
 
-
 We all start studying and training in what we like with a lot of enthusiasm and optimism. However, as time goes by, difficulties begin to arise, making us rethink our position and values. Are we really good at what we thought we were? Are we in the good direction? Are we investing our time correctly? Do really our skills define us? Who are we, after all? Shall we go on?
 
 Hopes and expectations always appear as two key concepts. They go hand in hand from the moment we think about what we want to train in, what we would like to do, and how we imagine ourselves in the future.
@@ -17,7 +16,6 @@ In most cases, the end of the training is perceived as the end of a key period i
 
 So, the questions reach an even higher level: Are we really good at what we decided to devote our lives? Are we really attracted to what are we doing? Why should I do this? Are we doing something valuable? Are we making a real contribution? To whom? Are we free?
 
-
 ## Get off to a good start
 
 Finger crossed, having a good start when choosing a first job is a crucial step in our careers. Ability or just luck. Whatever it takes. Getting into a good platform for landing in the professional realm can expand our horizons and increase our confidence in the long term. Seat belts on!
@@ -31,6 +29,8 @@ Without hierarchy, no worries, no pain, AsyncAPI shows itself as the best platfo
 Collaboration, co-creation, engagement. They are undeniable. Nothing can be built without a bit of help from our new friends. That’s a whole new concept of what a work environment can be. 
 
 Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. So, AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. This combination is probably the secret to the constant growth of the community and of the project itself. 
+
+Under these premises, AsyncAPI is increasingly involved in different programs such as Google Summer of Code, Google Season of Docs, OpenForce, Outreachy, and even started AsyncAPI's own Mentorship program.
 
 The main motto is that everybody has something to contribute. The more eyes, the more perspectives. The first and main skill is the willingness and eagerness to learn. All people are welcome, and there is always someone ready to help those who need it. So, the idea of not knowing something can be finally compelling. Let’s watch it this way, as a blank page for starting. A fresh view.
 
